@@ -1,0 +1,6 @@
+#ingore db access
+config/
+
+#ignore node modules
+node_modules/
+.idea/
